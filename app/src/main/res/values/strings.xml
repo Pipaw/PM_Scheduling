@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PM_Scheduling</string>
+    <string name="Generate">Generate</string>
+    <string name="Scan">Scan    </string>
+    <string name="View">View</string>
+    <string name="Daw">Vieaw</string>
+    <string name="text">Please Scan the QR</string>
+</resources>
