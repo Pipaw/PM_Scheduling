@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String Studname = "AGUSTIN, ROLLAN VICTOR PERILLO";
-                String Studno = "201410057";
+                String Studname = "JUAN DELA CRUZ";
+                String Studno = "123456789";
                 String dates = date.toString();
                 String remarks = "Present";
                 insertData(Studno,Studname,dates,remarks);
